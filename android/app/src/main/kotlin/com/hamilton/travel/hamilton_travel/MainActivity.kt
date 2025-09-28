@@ -1,4 +1,4 @@
-package com.hamilton.travel.hamilton_travel
+package com.hamilton.dev.spain_travel
 
 import io.flutter.embedding.android.FlutterActivity
 
