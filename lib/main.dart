@@ -28,6 +28,11 @@ class MyApp extends StatelessWidget {
           secondaryContainer: Color(0xFFFFE0B2),
           secondaryFixed: Color(0xFFC39F16),
         ),
+        dividerColor: const Color(0xFF6D090E),
+        dividerTheme: const DividerThemeData(
+          color: Color(0xFF6D090E),
+        ),
+        fontFamily: "Roboto",
         useMaterial3: true,
       ),
       home: const MyHomePage(title: 'Viaje España'),

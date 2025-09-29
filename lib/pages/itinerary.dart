@@ -22,9 +22,6 @@ class _ItineraryPageState extends State<ItineraryPage> {
           color: Theme.of(context).colorScheme.secondary, // Cor do ícone
         ),
       ),
-      drawer: Drawer(
-        backgroundColor: Theme.of(context).colorScheme.primary,
-      ),
       body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
